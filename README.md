@@ -1,9 +1,12 @@
 **Dominant Color Detector**
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 A Python web app that detects the dominant colors in an uploaded image using KMeans clustering. Users can upload an image via their browser, view the image, and see a palette of the most prominent colors along with their RGB values and percentages.
 
 ---
 **DEMO**
+
 ![Uploading ezgif.com-video-to-gif-converter (4).gif…]()
 
 ---
