@@ -7,7 +7,8 @@ A Python web app that detects the dominant colors in an uploaded image using KMe
 ---
 **DEMO**
 
-![Uploading ezgif.com-video-to-gif-converter (4).gif…]()
+![ezgif com-video-to-gif-converter (6)](https://github.com/user-attachments/assets/85c05669-a101-40b4-bd6c-3582328a985e)
+
 
 ---
 **Features**
@@ -38,12 +39,14 @@ Matplotlib
  – for optional plotting
 
 ---
-**Python Dependencies**
-streamlit==1.27.0        # For browser-based UI
-opencv-python==4.8.1.78  # For image processing
-scikit-learn==1.3.1      # For KMeans clustering
-matplotlib==3.8.0        # Optional for plotting colors (used in development)
-numpy==1.26.0            # For numerical operations on arrays
+### Dependencies
+
+streamlit==1.27.0<br>
+opencv-python==4.8.1.78<br>
+scikit-learn==1.3.1<br>
+matplotlib==3.8.0<br>
+numpy==1.26.0<br>
+pillow==10.1.0
 
 ---
 >Notes
