@@ -1,9 +1,13 @@
-Dominant Color Detector
+**Dominant Color Detector**
 
 A Python web app that detects the dominant colors in an uploaded image using KMeans clustering. Users can upload an image via their browser, view the image, and see a palette of the most prominent colors along with their RGB values and percentages.
 
 ---
-//Features//
+**DEMO**
+![Uploading ezgif.com-video-to-gif-converter (4).gif…]()
+
+---
+**Features**
 
 - Upload JPG/PNG images via a browser interface.
 
@@ -14,7 +18,7 @@ A Python web app that detects the dominant colors in an uploaded image using KMe
 - Lightweight and easy to run locally using Streamlit.
 
 ---
-//Tech Stack//
+**Tech Stack**
 
 Python 3.x
 
